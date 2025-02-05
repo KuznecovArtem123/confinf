@@ -1,0 +1,25 @@
+body {
+    background-color: #BE9F68	;
+    display: flex;
+    justify-content: center;
+}
+.content {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    padding: 10%;
+    background-color: wheat;
+    border-radius: 3%;
+    font-family:sans-serif
+    
+}
+li {
+    margin: 1%;
+}
+h3 {
+    text-align: center;
+}
+
+
+
+
