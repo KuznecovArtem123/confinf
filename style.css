@@ -1,25 +1,37 @@
 body {
-    background-color: #BE9F68	;
+    background-color: #641C71	;
     display: flex;
     justify-content: center;
+
 }
-.content {
+.content-h3 {
+    color:white;
+    font-family: "geologica";
+}
+.content-recs {
     display: grid;
     justify-content: center;
     align-content: center;
     padding: 10%;
-    background-color: wheat;
+    background-color: #f3cdfa;
     border-radius: 3%;
-    font-family:sans-serif
-    
+    font-family: "geologica";  
 }
 li {
-    margin: 1%;
+    margin-bottom: 2%;
 }
 h3 {
     text-align: center;
 }
-
+.mean {
+    margin-top: 1%;
+}
+.instr {
+    margin-top: 3%;
+}
+.instr-b {
+    margin-bottom: 1%;
+}
 
 
 
